@@ -1,0 +1,15 @@
+.bg-clean{
+    background: linear-gradient(to right,  rgb(14, 159, 255), rgb(241, 71, 247));
+}
+
+.bg-smart{
+    background: linear-gradient(to right, rgb(29, 255, 9), rgb(20, 108, 241));
+}
+
+.bg-neat{
+    background: linear-gradient(to right, rgb(20, 108, 241), rgb(29, 255, 9));
+}
+
+.border-clean{
+    border: 5px solid black;
+}
